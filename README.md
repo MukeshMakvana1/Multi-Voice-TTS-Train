@@ -43,7 +43,7 @@ text
 
 ### 1. Clone Repository
 
-git clone https://github.com/MukeshMakvana1/Kaliyo_Ai.git
+git clone https://github.com/MukeshMakvana1/Multi-Voice-TTS-Train
 cd Kaliyo_Ai
 
 text
