@@ -1,5 +1,7 @@
 # Multi-Voice-TTS-Train
 # Kaliyo_Ai: Multi-Voice Hindi Text-to-Speech Training Studio  ## Overview  **Kaliyo_Ai** is a Gradio-based, multi-voice Hindi Text-to-Speech (TTS) model training studio. It is designed for Windows 11, works great on CPU-only setups, and offers an ElevenLabs-style experience, modern UI, custom voice training, and easy dataset upload.
+<img width="1204" height="676" alt="image" src="https://github.com/user-attachments/assets/8d548b0e-33e5-4cae-a568-014471f5a3ff" />
+
 Kaliyo_Ai/
 ├── ui_tts_train.py # Main Gradio app code
 ├── README.md # This file
